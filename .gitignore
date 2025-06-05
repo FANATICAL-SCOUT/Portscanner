@@ -1,0 +1,43 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Ignore records directory (optional, if you don't want to push scan results)
+records/
+records/*.txt
+
+# Ignore egg-info and build artifacts
+*.egg-info/
+build/
+dist/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore sensitive files (if any)
+*.key
+*.pem
+*.crt
+
+# Ignore binary files (if generated)
+*.bin
+*.exe
+*.dll
