@@ -22,7 +22,7 @@ pip install git+https://github.com/FANATICAL-SCOUT/Portscanner.git
 ### Method 2: Development Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/port-scanner.git
+git clone https://github.com/FANATICAL-SCOUT/Portscanner.git
 cd port-scanner
 ```
 
