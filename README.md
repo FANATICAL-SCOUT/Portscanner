@@ -16,7 +16,7 @@ A comprehensive network security tool that combines port scanning, service detec
 
 ```bash
 # Install from GitHub
-pip install git+https://github.com/yourusername/port-scanner.git
+pip install git+https://github.com/FANATICAL-SCOUT/Portscanner.git
 ```
 
 ### Method 2: Development Installation
